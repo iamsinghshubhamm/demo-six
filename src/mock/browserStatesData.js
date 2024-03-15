@@ -1,0 +1,130 @@
+import image from "../assests/grayimage.png";
+
+export const productsData1 = [
+  {
+    browser: "Google chrome",
+    session: "45,678",
+    bouncerate: "7.5%",
+    cte: "13025",
+    goal: "90%",
+    image: image,
+  },
+  {
+    browser: "Google chrome",
+    session: "38,943",
+    bouncerate: "6.5%",
+    cte: "12580",
+    goal: "91%",
+    image: image,
+  },
+  {
+    browser: "Google chrome",
+    session: "30,849",
+    bouncerate: "8.5%",
+    cte: "13500",
+    goal: "88%",
+    image: image,
+  },
+  {
+    browser: "Google chrome",
+    session: "28,763",
+    bouncerate: "3.5%",
+    cte: "11875",
+    goal: "95%",
+    image: image,
+  },
+  {
+    browser: "Google chrome",
+    session: "50,237",
+    bouncerate: "5.5%",
+    cte: "12250",
+    goal: "92%",
+    image: image,
+  },
+];
+
+export const productsData2 = [
+  {
+    browser: "Google chrome",
+    session: "40,123",
+    bouncerate: "6.5%",
+    cte: "12875",
+    goal: "92%",
+    image: image,
+  },
+  {
+    browser: "Google chrome",
+    session: "35,678",
+    bouncerate: "5.5%",
+    cte: "12345",
+    goal: "90%",
+    image: image,
+  },
+  {
+    browser: "Google chrome",
+    session: "28,456",
+    bouncerate: "9.5%",
+    cte: "14000",
+    goal: "86%",
+    image: image,
+  },
+  {
+    browser: "Google chrome",
+    session: "25,890",
+    bouncerate: "4.5%",
+    cte: "11500",
+    goal: "94%",
+    image: image,
+  },
+  {
+    browser: "Google chrome",
+    session: "45,320",
+    bouncerate: "6.5%",
+    cte: "13000",
+    goal: "91%",
+    image: image,
+  },
+];
+
+export const productsData3 = [
+  {
+    browser: "Google chrome",
+    session: "38,975",
+    bouncerate: "5.5%",
+    cte: "12675",
+    goal: "91%",
+    image: image,
+  },
+  {
+    browser: "Google chrome",
+    session: "32,489",
+    bouncerate: "4.5%",
+    cte: "12010",
+    goal: "89%",
+    image: image,
+  },
+  {
+    browser: "Google chrome",
+    session: "25,674",
+    bouncerate: "10.5%",
+    cte: "14500",
+    goal: "84%",
+    image: image,
+  },
+  {
+    browser: "Google chrome",
+    session: "22,543",
+    bouncerate: "5.5%",
+    cte: "12025",
+    goal: "94%",
+    image: image,
+  },
+  {
+    browser: "Google chrome",
+    session: "42,345",
+    bouncerate: "7.5%",
+    cte: "12500",
+    goal: "90%",
+    image: image,
+  },
+];
